@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JayRupapara
-- 👀 I’m interested in Hacking and Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jay Rupapara
+- 👀 I’m interested backend technologies
+- 🌱 I’m currently learning Java
 
 <!---
 JayRupapara/JayRupapara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
