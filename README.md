@@ -5,8 +5,8 @@ I'm a **frontend developer** from India 🇮🇳, passionate about crafting imme
 ---
 
 ## 💻 Skills  
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS  
-- **Backend:** Node.js, Spring Boot, MongoDB  
+- **Frontend:** React.js, Next js, JavaScript, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Firebase, Spring Boot, MongoDB  
 - **Others:** REST APIs, Git, Netlify, Figma  
 
 ---
